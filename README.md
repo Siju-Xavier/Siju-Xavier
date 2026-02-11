@@ -1,4 +1,4 @@
-<p align="left">Hi 👋! I am Siju Xavier , a software engineering student who is currently enrolled in University of Calgary.Down </p>
+<p align="left">Hi 👋! I am Siju Xavier , a software engineering student who is currently enrolled in University of Calgary. </p>
 
 ###
 
