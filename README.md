@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Siju Xavier and I'm a Software Engineering student  from University of Calgary</h2>
+<h2 align="left">Hi 👋! </h2>
 
 ###
 
