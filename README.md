@@ -1,10 +1,6 @@
 <p align="left">Hi 👋! I am Siju Xavier , a software engineering student who is currently enrolled in University of Calgary. </p>
 
-###
 
-<img align="right" height="125" src="https://i.pinimg.com/originals/8e/8f/68/8e8f68f0d377e1e7b739ee23d25f8a0d.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
